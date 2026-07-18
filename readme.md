@@ -291,10 +291,15 @@ chronologically.
 - [IRS Migration Data](http://www.irs.gov/uac/SOI-Tax-Stats-Migration-Data) by IRS Tax Statistics (2013)
 - [Latin American Human Mortality Database](https://lamortalidad.github.io/) by Urdinola, B., & Queiroz, B. L. (2022)
 - [Lives, Choices and Futures - Demographic Futures Survey United Nations Population Fund](https://www.unfpa.org/publications/lives-choices-and-futures-demographic-futures-survey)
+- [Migration data portal](https://www.migrationdataportal.org/)
+- [Net Migration by Decade, 1950-2020](https://netmigration.wisc.edu/)
 - [Population and Housing Unit Estimates (PEP)](https://www.census.gov/programs-surveys/popest.html) by US Census Bureau (2022)
+- [QuantMig](https://www.quantmig.eu/data_and_estimates/data_inventory/)
 - [Scholarly Migration Database](https://www.scholarlymigration.org/)
+- [Short-term Mortality Fluctuations](https://mpidr.shinyapps.io/stmortality/)
 - [The Association of Religion Data Archives](http://www.thearda.com/) by Association of Religion Data Archives (2013)
 - [The DHS Program Quality information to plan, monitor and improve population, health, and nutrition programs](https://dhsprogram.com/)
+- [The global flow of people](https://download.gsb.bund.de/BIB/global_flow/) by Sander N., Abel G. J. and Bauer R. (2014)
 - [TIGER: Topologically Integrated Geographic Encoding and Referencing](https://www.census.gov/programs-surveys/geography/guidance/tiger-data-products-guide.html) by US Census Bureau (2017)
 - [United States Mortality Database](https://usa.mortality.org/) by Human Mortality Database Project (2019)
 - [US Census Bureau Datasets (www2)](http://www2.census.gov/) by US Census Bureau (2011)
@@ -311,7 +316,7 @@ chronologically.
 
 - [Applied Demography Toolbox](https://applieddemogtoolbox.github.io/) and [here](https://github.com/AppliedDemogToolbox/applieddemogtoolbox.github.io)
 - [BayesPop; materials by group at the University of Washington](https://bayespop.csss.washington.edu/)
-
+- [Taxonomy of migration research](https://migrationresearch.com/taxonomies)
 
 ### GitHub Organizations
 
